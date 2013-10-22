@@ -4,5 +4,4 @@
 [Important Issues](Important Issues.md)
 [No-Fault Act](No-Fault Act.md)
 
-[gimmick:themechooser](Chose Theme)
 [gimmick:theme](flatly)
