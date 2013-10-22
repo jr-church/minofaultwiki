@@ -12,12 +12,12 @@ If you believe a section of the wiki would be better organized or structured in 
 
 ## No-Fault: Important Issues
 
-###[Allowable Expenses](Allowable Expenses.md)
-	A. [Medical Expenses](Medical Expenses.md)
-	B. [Attendant Care](Attendant Care.md)
-	C. [Replacement Services](Replacement Services.md)
-	D. [Wage Loss](Wage Loss.md)
-	E. [Other Allowable Expenses](Other Allowable Expenses.md)
+### [Allowable Expenses](Allowable Expenses.md)
+	#### A. [Medical Expenses](Medical Expenses.md)
+	#### B. [Attendant Care](Attendant Care.md)
+	#### C. [Replacement Services](Replacement Services.md)
+	#### D. [Wage Loss](Wage Loss.md)
+	#### E. [Other Allowable Expenses](Other Allowable Expenses.md)
 
 	*Related Statutory Provisions*:
 		1. 
