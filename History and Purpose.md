@@ -1,4 +1,6 @@
-# No-Fault Act: History & Purpose
+# Michigan No-Fault Wiki
 
-## Introduction
+## No-Fault Act: History & Purpose
+
+### Introduction
 
