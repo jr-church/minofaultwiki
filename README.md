@@ -1,2 +1,2 @@
-minofaultwiki
+Michigan No-Fault Law Wiki
 =============
