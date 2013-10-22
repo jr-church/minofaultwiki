@@ -1,3 +1,5 @@
-# Wage Loss
+# Michigan No-Fault Wiki
 
-## Introduction
+##Wage Loss
+
+### Introduction
