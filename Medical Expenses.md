@@ -1,4 +1,3 @@
-Medical Expenses
-===
-Introduction
----
+# Medical Expenses
+
+## Introduction

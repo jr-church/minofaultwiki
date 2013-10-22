@@ -1,4 +1,3 @@
-Wage Loss
-===
-Introduction
----
+# Wage Loss
+
+## Introduction

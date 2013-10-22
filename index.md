@@ -19,8 +19,8 @@ If you believe a section of the wiki would be better organized or structured in 
 	#### D. [Wage Loss](Wage Loss.md)
 	#### E. [Other Allowable Expenses](Other Allowable Expenses.md)
 
-	*Related Statutory Provisions*:
-		1. 
+	#### Related Statutory Provisions:
+		##### 1. 
 
 ###[Michigan Catastrophic Claims Association](Michigan Catastrophic Claims Association.md)
 
